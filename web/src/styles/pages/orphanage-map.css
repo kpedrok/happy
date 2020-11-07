@@ -75,7 +75,7 @@
 
 #page-map .map-popup .leaflet-popup-content {
   color: #0089a5;
-  font: 20px;
+  font-size: 20px;
   font-weight: bold;
   margin: 8px 12px;
   display: flex;
